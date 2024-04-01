@@ -1,4 +1,4 @@
-SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/a44b4b6d-0963-479d-b7b2-87431e02d49a)SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
 AIM: 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
@@ -127,7 +127,26 @@ endmodule
 ```
 
 OUTPUT WAVEFORM
- <<< PASTE YOUR OUTPUT WAVEFORM >>>
+# ENCODER:
+ ![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/2dade1b3-d484-4010-a850-b18694a4411a)
+# DECODER:
+ ![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/5a152f40-4e05-4a7f-9acc-8b52cdae4b60)
+# MULTIPLEXER:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/5328514c-a17a-4779-b35d-ee4cf9860fbc)
+# DEMULTIPLEXER:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/1cdd4574-bff2-4c7a-8227-36649c8ecf29)
+# MAGNITUDE COMPARATOR:
+![image](https://github.com/Sairam1034/VLSI-LAB-EXP-2/assets/161026996/a925d4ce-36c2-4fee-aaa0-510a1a10b898)
+
+
+
+
+ 
+
+
+
+ 
+
 
 RESULT
 
