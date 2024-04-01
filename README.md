@@ -60,6 +60,7 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 # DECODER:
+```
 module decoder_8(a,b,c,y);
 input a,b,c; 
 output[7:0]y; 
@@ -73,7 +74,7 @@ and g7(y[6], (a), (b), (~c));
 and g8(y[7], (a), (b), (c));
 endmodule
 ```
-MULTIPLEXER:
+# MULTIPLEXER:
 ```
 module mux(a,b,c,d,s0,s1,y);
 input a,b,c,d,s0,s1;
